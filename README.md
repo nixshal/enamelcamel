@@ -1,2 +1,2 @@
 # enamelcamel
- 3rd year project
+ Website for my 3rd year Individual Project.
